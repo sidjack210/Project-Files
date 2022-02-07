@@ -1,3 +1,6 @@
+#Name: Sidney Jackson
+#Comments: file created to configure routing for the server VM
+
 network:
  version: 2
  renderer: networkd
